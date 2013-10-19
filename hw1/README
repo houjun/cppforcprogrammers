@@ -1,0 +1,5 @@
+Description:
+
+Take the C program described below and convert it to C++. The program should take C arrays and convert them to vectors. The conversion should take stdio.h definitions and functions and replace them with iostream I/O. Use C++ style comments and replace macros and #define constants with inline functions and const declarations if appropriate.
+
+Follow the style guidelines in the text, proper indention, one-line per statement, good choice of identifiers will figure prominently in grading.
