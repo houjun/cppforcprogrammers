@@ -173,6 +173,66 @@ public:
     }
 
 };
+
+class PriorityQueue {
+public:
+    void chgPrioirity(PQ, priority)
+    {
+        
+    }
+    
+    // removes the top element of the queue.
+    void minPrioirty(PQ)
+    {
+    
+        
+    }
+    
+    // does the queue contain queue_element
+    bool contains(PQ, queue_element)
+    {
+    
+    }
+    
+    // insert queue_element into queue
+    Insert(PQ, queue_element)
+    {
+    
+    }
+    // returns the top element of the queue
+    top(PQ)
+    {
+    
+    }
+
+    // return the number of queue_elements
+    size(PQ)
+    {
+    
+    }
+}
+
+class ShortestPath
+{
+    // list of vertices in G(V,E).
+    void vertices(List)
+    {
+    
+    }
+    
+    // find shortest path between u-w and returns the sequence of vertices representing shorest path u-v1-v2-…-vn-w.
+    int path(u, w)
+    {
+    
+    }
+    
+    // return the path cost associated with the shortest path.
+    int path_size(u, w)
+    {
+    
+    }
+}
+
 int main(int argc, char *argv[])
 {
     Graph a(50);
